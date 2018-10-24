@@ -3,7 +3,7 @@ import {Route, NavLink, Switch} from 'react-router-dom';
 import Posts from './Posts/Posts';
 //import asyncComponent from '../../hoc/asyncComponent';
 //import axios from 'axios';
-//import NewPost from './NewPost/NewPost'
+import NewPost from './NewPost/NewPost'
 
 //const AsyncNewPost = asyncComponent(() => {
 //    return import('./NewPost/NewPost');
